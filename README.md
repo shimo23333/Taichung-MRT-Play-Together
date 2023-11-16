@@ -1,3 +1,3 @@
 # taichung-mrt-play-together
-捷伴台中遊
-網址：http://www.biiu.com.tw/tmrt/
+https://shimo23333.github.io/Taichung-MRT-Play-Together/
+捷伴台中遊網址：http://www.biiu.com.tw/tmrt/
